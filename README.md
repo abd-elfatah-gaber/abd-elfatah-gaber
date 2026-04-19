@@ -5,9 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=📊+Data+Analyst+%7C+Power+BI+Developer;🎓+ITI+Diploma+Graduate+%7C+Egypt;💡+Turning+Raw+Data+into+Smart+Decisions;🚀+Open+to+Freelance+%26+Full-Time+Opportunities" alt="Typing SVG" />
 <br/>
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=abd-elfatah-gaber&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/abd-elfatah-gaber?style=for-the-badge&color=22C55E&logo=github)](https://github.com/abd-elfatah-gaber)
- 
+<img src="https://komarev.com/ghpvc/?username=abd-elfatah-gaber&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/abd-elfatah-gaber"><img src="https://img.shields.io/github/followers/abd-elfatah-gaber?style=for-the-badge&color=22C55E&logo=github" alt="GitHub followers"/></a>
 </div>
 ---
  

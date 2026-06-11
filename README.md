@@ -19,39 +19,47 @@ analyst = {
     "name"       : "Abd Elfatah Gaber Ebrahim",
     "arabic_name": "عبدالفتاح جابر إبراهيم",
     "role"       : "Data Analyst | Power BI Developer",
-    "education"  : "ITI Diploma — Information Technology Institute, Egypt 🇪🇬",
-    "location"   : "Alexandria, Egypt 📍",
+    "education"  : "ITI Internship — Information Technology Institute, Egypt 🇪🇬",
+    "location"   : "Cairo, Egypt 📍",
     "focus"      : ["Business Intelligence", "Data Visualization", "Reporting"],
     "freelance"  : ["Mostaql → Abdelfatah26", "Khamsat → abd_elfatah_gaber26"],
     "available"  : True  # Open to work & freelance projects ✅
 }
 ```
- 
+
 ---
- 
-## 🛠️ Tech Stack & Skills
- 
+
+🛠️ Tech Stack & Skills
+
 <div align="center">
-**📊 Data & BI Tools**
- 
+📊 Data & BI Tools
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/DAX-6366F1?style=for-the-badge&logoColor=white" alt="DAX"/>
 <img src="https://img.shields.io/badge/Power%20Query-0EA5E9?style=for-the-badge&logoColor=white" alt="Power Query"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Power%20Pivot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Pivot"/>
+<img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSRS"/>
 <br/><br/>
- 
-**🗄️ Database**
- 
+🗄️ Database & Data Engineering
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
+<img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSIS"/>
+<img src="https://img.shields.io/badge/SQL%20Server%20Agent-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Agent"/>
 <img src="https://img.shields.io/badge/Data%20Warehouse-6366F1?style=for-the-badge&logoColor=white" alt="Data Warehouse"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-8B5CF6?style=for-the-badge&logoColor=white" alt="ETL"/>
 <br/><br/>
- 
-**🐍 Programming & Data Science**
- 
+☁️ Cloud & Big Data
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logoColor=white" alt="Delta Lake"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+<br/><br/>
+🐍 Programming & Data Science
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -59,44 +67,88 @@ analyst = {
 <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <br/><br/>
- 
-**📐 Analytics & Concepts**
- 
+📐 Analytics & Concepts
+
 <img src="https://img.shields.io/badge/Statistics-0EA5E9?style=for-the-badge&logoColor=white" alt="Statistics"/>
 <img src="https://img.shields.io/badge/Data%20Mining-8B5CF6?style=for-the-badge&logoColor=white" alt="Data Mining"/>
 <img src="https://img.shields.io/badge/Big%20Data-FF6B35?style=for-the-badge&logoColor=white" alt="Big Data"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-22C55E?style=for-the-badge&logoColor=white" alt="Data Visualization"/>
 <img src="https://img.shields.io/badge/Star%20%26%20Snowflake%20Schema-64748b?style=for-the-badge&logoColor=white" alt="Schema Design"/>
 <br/><br/>
- 
-**🔧 Dev Tools**
- 
+🔧 Dev Tools
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
----
- 
-## 📈 What I Do
- 
+
+📈 What I Do
+
 | 🏆 Skill | 📝 Details |
 |---|---|
-| 📊 **Power BI Dashboards** | Multi-page interactive reports with DAX, drillthroughs & slicers |
+| 📊 **Power BI** | DashboardsMulti-page interactive reports with DAX, drillthroughs & slicers |
 | 🔢 **DAX Measures** | KPIs, Time Intelligence (YTD/QTD/MTD), Ranking, Running Total |
-| 🔄 **Power Query (ETL)** | Data cleaning, transformation, and shaping from multiple sources |
+| 🔄 **ETL Pipelines** | Full end-to-end pipelines: Python cleaning → SSIS → SQL Server DWH |
+| 🏗️ **Data Warehousing** | Star Schema design, incremental loading, MERGE logic, automated jobs |
+| 📋 **SSRS Reports** | Parameterized reports, multi-value filters, grouped tabular layouts |
 | 🗃️ **Data Modeling** | Star & Snowflake schemas, relationships, calculated columns |
 | 📋 **Excel Analytics** | Power Pivot, Pivot Tables, advanced formulas & dashboards |
-| 🗄️ **SQL & SQL Server** | Queries, joins, aggregations & BI reporting |
-| 🐍 **Python Analysis** | EDA, data cleaning with Pandas, visualization with Matplotlib/Seaborn |
-| 📐 **Statistics** | Descriptive stats, probability & distributions for data interpretation |
-| 🔍 **Data Mining** | Pattern discovery and insight extraction from large datasets |
-| 📈 **Tableau** | Interactive dashboards and storytelling with data |
+| 🗄️ **SQL & SQL Server** | Queries, stored procedures, joins, aggregations & BI reporting |
+| 🐍 **Python Analysis** | EDA, data cleaning with Pandas, feature engineering☁️ Databricks & Delta LakeLakehouse architecture, Star Schema on Spark, DirectQuery dashboards |
  
 ---
  
 ## 🚀 Featured Projects
- 
-### 📊 ProAnalytix — Sales & Operations Intelligence Dashboard
+
+### 🏛️ Egypt-Labor-Market-Insights-Platform
+
+
+> End-to-End DWH · SQL Server · SSIS · SSRS · Power BI · Python · CAPMAS 2024 Data
+
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/DWH-0EA5E9?style=flat-square)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-F59E0B?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-10B981?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![On-Premises Gateway](https://img.shields.io/badge/On--Premises%20Gateway-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+
+
+**Full end-to-end Data Warehouse system built on CAPMAS 2024 Egyptian Labour Force survey data.**
+**Covers OLTP source system design, Star Schema DWH, Python-based data cleaning pipeline (235 → 74 columns), SSIS ETL with incremental loading & MERGE logic, SQL Server Agent job automation, SSRS parameterized reports, and a 5-page Arabic Power BI dashboard.**
+
+🔗 **[View Project →](https://github.com/abd-elfatah-gaber/Egypt-Labor-Market-Insights-Platform)**
+
+
+### 🍽️ Restaurant-Analytics-End-to-End-Data-Pipeline-BI-Dashboard
+
+> Databricks · Delta Lake · Apache Spark · Star Schema · Power BI DirectQuery
+
+
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=delta&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-F59E0B?style=flat-square)
+![Power BI DirectQuery](https://img.shields.io/badge/Power%20BI%20DirectQuery-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-6366F1?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-8B5CF6?style=flat-square)
+
+> Lakehouse Architecture · Bronze → Silver → Gold Layers · 5 Dashboard Pages · DirectQuery
+
+**End-to-end restaurant analytics pipeline on Databricks with Delta Lake medallion architecture.**
+**Built a Star Schema on Spark, connected Power BI via DirectQuery for live reporting, and delivered a 5-page interactive dashboard covering sales, branches, menu items, and customer behavior.**
+
+🔗 **[View Project →](https://github.com/abd-elfatah-gaber/Restaurant-Analytics-End-to-End-Data-Pipeline-BI-Dashboard)**
+
+
+### 📊 End-to-End-Customer-Product-Operations-Analytics-Power-BI
 > Full-scale Power BI · 8 pages · Snowflake Schema · DAX · Python cleaning
  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -106,11 +158,11 @@ analyst = {
  
 **$25M Sales · 40.14% Profit Margin · 18.15K Customers · 8 Report Pages**
  
-🔗 **[View Project →](https://github.com/abd-elfatah-gaber/ProAnalytix-PowerBI-Dashboard)**
+🔗 **[View Project →](https://github.com/abd-elfatah-gaber/End-to-End-Customer-Product-Operations-Analytics-Power-BI)**
  
 ---
  
-### ✈️ Airline Delay Analysis — Flight Intelligence Dashboard
+### ✈️ Airline-Delay-Analysis-PowerBI
 > Power BI · Python (Pandas) · Star Schema · 2M+ flights · 20+ airlines
  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -123,7 +175,7 @@ analyst = {
  
 ---
  
-### 🍪 Cookies Sales Analysis — Power BI Dashboard
+### 🍪 Cookies-Data-Analysis-Dashboard-Power-BI
 > Power BI · DAX · Star Schema · 700 orders · 5 retail customers
  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -135,7 +187,7 @@ analyst = {
  
 ---
  
-### 📊 Excel Sales Analytics Dashboard
+### 📊 Customers-Products-Sales-Shipping-Dashboard-Excel-Project
 > Excel · Power Pivot · Power Query · 9,994 records · Star Schema
  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -145,7 +197,7 @@ analyst = {
 **$2.29M Sales · 9,994 Transactions · 3 Categories · 17 Sub-Categories**
  
 🔗 **[View Project →](https://github.com/abd-elfatah-gaber)**
- 
+
 ---
  
 ## 📊 GitHub Stats
@@ -161,12 +213,10 @@ analyst = {
  
 ## 🎓 Education & Certifications
  
-- 🏛️ **ITI Diploma** — Data Analysis Track · Information Technology Institute, Egypt *(2024–2025)*
-- 📜 **DataCamp** — Data Analyst in Power BI *(in progress)*
-- 🗄️ **SQL Server & Business Intelligence** — Advanced SQL + SSBI
+- 🏛️ **ITI Internship** — Power BI Development Track · Information Technology Institute, Egypt *(2026)*
+- 🗄️ **SQL Server & Business Intelligence** — Advanced SQL 
 - 📦 **Data Warehousing** — Modeling & ETL Design
 - 📐 **Statistics & Probability** — Foundations for Data Analysis
-- 🔍 **Data Mining** — Pattern recognition & insight extraction
 - 🐍 **Python for Data Science** — NumPy · Pandas · Matplotlib · Seaborn
 - 🎨 **Color Theory & Data Visualization** — Compelling visual storytelling
 - ☁️ **Cloud Computing & Big Data** — Introductory concepts
